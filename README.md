@@ -1,7 +1,7 @@
 # VehicleNN2
 Self Driving Vehicle Setup in Unreal Engine 4 (In Both C++ and Blueprints)
 
-# The files you're looking for
+## The files where the core NN logic resides
 ### C++
 Path: VehicleNN2/Source/VehicleNN2/NN/ <br>
 Link: https://github.com/Vieper1/VehicleNN2/tree/master/Source/VehicleNN2/NN
